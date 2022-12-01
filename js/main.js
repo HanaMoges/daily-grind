@@ -74,11 +74,11 @@ switch(today){
                 today = "Tuesday";
                 coffee = {
                     color:"brown",
-                    name:"Frappaccion",
-                    pic:"frappaccion.jpg",
-                    alt:"A picture of a frappaccion",
+                    name:"Frappaccino",
+                    pic:"frappaccino.jpg",
+                    alt:"A picture of a frappaccino",
                     day:"Tuesday",
-                    desc:`it's cold, so a Frappaccion sounds good right now!`
+                    desc:`it's cold, so a Frappaccino sounds good right now!`
                 };
             break;
 
