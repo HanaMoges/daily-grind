@@ -74,11 +74,11 @@ switch(today){
                 today = "Tuesday";
                 coffee = {
                     color:"brown",
-                    name:"Caramel latte",
-                    pic:"Caramel-latte.jpg",
-                    alt:"A picture of a caramel latte",
+                    name:"Frappaccion",
+                    pic:"frappaccion.jpg",
+                    alt:"A picture of a frappaccion",
                     day:"Tuesday",
-                    desc:`it's cold, so a caramel latte sounds good right now!`
+                    desc:`it's cold, so a Frappaccion sounds good right now!`
                 };
             break;
 
@@ -124,7 +124,7 @@ switch(today){
                 coffee = {
                     color:"brown",
                     name:"Pumpkin-spice latte",
-                    pic:"Pumpkin-spice-latte.jpg",
+                    pic:"pumpkin-spice-latte.jpg",
                     alt:"A picture of a Pumpkin-spice latte",
                     day:"Pumpkin-spice latte",
                     desc:`I love Pumpkin-spice latte!`
@@ -136,7 +136,7 @@ switch(today){
                 coffee = {
                     color:"white",
                     name:"Caramel-latte",
-                    pic:"Caramel-latte.jpg",
+                    pic:"caramel-latte.jpg",
                     alt:"A picture of a Caramel-latte",
                     day:"Caramel-latte",
                     desc:`I want some Caramel-latte!`
